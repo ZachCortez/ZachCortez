@@ -23,44 +23,53 @@
 
 ## 🚀 **Projects**
 
-### 🏢 **SaturnBay Estates** – Real Estate Platform  
-🛠 *Tech Stack:* Next.js, TailwindCSS, MongoDB  
-✅ Developed a **comprehensive real estate platform** featuring property listings, user authentication, and an admin dashboard.  
-✅ Implemented **search and filter functionalities** to enhance user experience.  
+### 🎬 **Mobile Movie App** – Cross-Platform Movie Discovery Application  
+🛠 *Tech Stack:* React Native, TMDb API, TailwindCSS  
+✅ Built a **mobile app** allowing users to search, discover, and save favorite movies.  
+✅ Implemented **dynamic movie search and filtering** with data from TMDb API.  
+✅ Designed an intuitive and responsive UI to ensure a seamless user experience on both Android and iOS devices.  
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/mobile_movie_app)
 
 ### 🧩 **Xora** – Modern UI/UX SaaS Website  
 🛠 *Tech Stack:* React.js, TailwindCSS  
 ✅ Created a **sleek SaaS website** emphasizing modern UI/UX principles.  
 ✅ Implemented **seamless animations** and a responsive design to ensure accessibility across devices.  
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/Xora)
 
 ### 🎙 **Podcastr** – AI-Powered Podcast Platform  
 🛠 *Tech Stack:* Next.js, OpenAI, TypeScript, TailwindCSS  
 ✅ Developed an **AI-driven podcast creation platform** with text-to-audio conversion.  
 ✅ Implemented authentication and a seamless user experience with Clerk.  
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/Podcastr)
 
 ### 🏥 **CarePulse** – Healthcare Patient Management System  
 🛠 *Tech Stack:* Next.js, Appwrite, Twilio, TypeScript  
 ✅ Built a **healthcare system** allowing patients to register, book, and manage appointments.  
 ✅ Integrated **SMS notifications** using Twilio for appointment reminders.  
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/CarePulse)
 
 ### 🚕 **Uber Clone** – Ride-Sharing Mobile App  
 🛠 *Tech Stack:* React Native, Google Maps API, Stripe, TailwindCSS  
 ✅ Developed a **full-stack mobile app** with ride-hailing features.  
-✅ Implemented **real-time geolocation** and **secure payment processing**.
+✅ Implemented **real-time geolocation** and **secure payment processing**.  
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/Uber_Clone)
 
 ### 🏦 **Horizon Bank** – Online Banking System  
 🛠 *Tech Stack:* Next.js, TypeScript, TailwindCSS, MongoDB  
 ✅ Developed a **secure online banking platform** allowing users to manage accounts, transfer funds, and track transactions.  
 ✅ Implemented **authentication, account security, and real-time transaction updates**.  
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/Horizon_Bank)
 
 ### 💡 **Brainwave** – Modern UI/UX Website  
 🛠 *Tech Stack:* React.js, TailwindCSS  
 ✅ Designed a **visually appealing UI/UX website** that showcases modern design principles.  
-✅ Focused on **fluid animations and responsive layouts** for an optimal user experience.    
+✅ Focused on **fluid animations and responsive layouts** for an optimal user experience.  
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/Brainwave)
 
 ### 📱 **iPhone 15 Pro Clone** – Apple Website Replica  
 🛠 *Tech Stack:* Three.js, GSAP, React.js, Vite, TailwindCSS  
 ✅ Created a **high-fidelity clone** of Apple's iPhone 15 Pro page with **3D animations**.  
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/iPhone_15_Pro_Clone)
 
 ---
 
