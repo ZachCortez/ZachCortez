@@ -1,3 +1,5 @@
+---
+
 # 🚀 Zachary Cortez
 
 🎯 **Full-Stack Web Developer**  
@@ -22,6 +24,12 @@
 ---
 
 ## 🚀 **Projects**
+
+### 🤖 **AI Mock Interviews** – AI-Powered Interview Practice Platform  
+🛠 *Tech Stack:* Next.js, TypeScript, OpenAI, TailwindCSS, ShadCN  
+✅ Built an **AI-powered platform** allowing users to practice mock interviews across various industries and roles.  
+✅ Integrated **dynamic interview question generation** using OpenAI APIs and built a sleek, intuitive UI.  
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/ai_mock_interviews)
 
 ### 🎬 **Mobile Movie App** – Cross-Platform Movie Discovery Application  
 🛠 *Tech Stack:* React Native, TMDb API, TailwindCSS  
@@ -108,3 +116,5 @@
 ## 📬 **Contact**  
 📧 Zach.Cortez@icloud.com | 📞 (425) 435-1912  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/ZachCortez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/zach-cortez/)
+
+---
