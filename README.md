@@ -78,7 +78,7 @@
 🛠 *Tech Stack:* Next.js, TypeScript, TailwindCSS, MongoDB  
 ✅ Developed a **secure online banking platform** allowing users to manage accounts, transfer funds, and track transactions.  
 ✅ Implemented **authentication, account security, and real-time transaction updates**.  
-🔗 [**GitHub Repository**](https://github.com/ZachCortez/Horizon_Bank)
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/sb_banking)
 
 ### 💡 **Brainwave** – Modern UI/UX Website  
 🛠 *Tech Stack:* React.js, TailwindCSS  
