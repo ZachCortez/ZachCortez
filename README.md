@@ -25,6 +25,18 @@
 
 ## 🚀 **Projects**
 
+### ✈️ **Travel Agency Website** – Responsive Travel Booking Website  
+🛠 *Tech Stack:* React.js, TailwindCSS, Framer Motion  
+✅ Developed a **responsive travel agency website** for browsing and booking vacations.  
+✅ Focused on **modern design, animations, and user-centric interface** to improve experience.  
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/travel_agency)
+
+### 🌐 **3D Portfolio** – Interactive Developer Portfolio with 3D Effects  
+🛠 *Tech Stack:* Three.js, React.js, TailwindCSS, Vite  
+✅ Built a **personal portfolio site** featuring a 3D interactive experience to showcase skills and projects.  
+✅ Used **Three.js and GSAP** for 3D rendering, smooth animations, and responsive design.  
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/3D_Portfolio)
+
 ### 🤖 **AI Mock Interviews** – AI-Powered Interview Practice Platform  
 🛠 *Tech Stack:* Next.js, TypeScript, OpenAI, TailwindCSS, ShadCN  
 ✅ Built an **AI-powered platform** allowing users to practice mock interviews across various industries and roles.  
