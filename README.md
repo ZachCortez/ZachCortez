@@ -72,7 +72,7 @@
 🛠 *Tech Stack:* React Native, Google Maps API, Stripe, TailwindCSS  
 ✅ Developed a **full-stack mobile app** with ride-hailing features.  
 ✅ Implemented **real-time geolocation** and **secure payment processing**.  
-🔗 [**GitHub Repository**](https://github.com/ZachCortez/Uber_Clone)
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/uber-clone)
 
 ### 🏦 **Horizon Bank** – Online Banking System  
 🛠 *Tech Stack:* Next.js, TypeScript, TailwindCSS, MongoDB  
