@@ -29,7 +29,7 @@
 🛠 *Tech Stack:* React.js, TailwindCSS, Framer Motion  
 ✅ Developed a **responsive travel agency website** for browsing and booking vacations.  
 ✅ Focused on **modern design, animations, and user-centric interface** to improve experience.  
-🔗 [**GitHub Repository**](https://github.com/ZachCortez/travel_agency)
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/travel-agency)
 
 ### 🌐 **3D Portfolio** – Interactive Developer Portfolio with 3D Effects  
 🛠 *Tech Stack:* Three.js, React.js, TailwindCSS, Vite  
