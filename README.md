@@ -89,7 +89,7 @@
 ### 📱 **iPhone 15 Pro Clone** – Apple Website Replica  
 🛠 *Tech Stack:* Three.js, GSAP, React.js, Vite, TailwindCSS  
 ✅ Created a **high-fidelity clone** of Apple's iPhone 15 Pro page with **3D animations**.  
-🔗 [**GitHub Repository**](https://github.com/ZachCortez/iPhone_15_Pro_Clone)
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/apple_website)
 
 ---
 
