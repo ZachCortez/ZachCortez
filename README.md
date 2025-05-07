@@ -5,7 +5,7 @@
 🎯 **Full-Stack Web Developer**  
 📍 Charlotte, NC  
 📧 Zach.Cortez@icloud.com | 📞 (425) 435-1912  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/ZachCortez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/zach-cortez/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/ZachCortez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/zach-cortez/)[![Portfolio](https://img.shields.io/badge/Portfolio-1E1B3A?style=flat&logo=vercel&logoColor=00FFFF)](https://zachcortez3dportfolio.vercel.app/)
 
 ---
 
