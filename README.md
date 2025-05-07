@@ -35,7 +35,7 @@
 🛠 *Tech Stack:* Three.js, React.js, TailwindCSS, Vite  
 ✅ Built a **personal portfolio site** featuring a 3D interactive experience to showcase skills and projects.  
 ✅ Used **Three.js and GSAP** for 3D rendering, smooth animations, and responsive design.  
-🔗 [**GitHub Repository**](https://github.com/ZachCortez/3D_Portfolio)
+🔗 [**GitHub Repository**](https://github.com/ZachCortez/3D_Portfolio)[![Portfolio](https://img.shields.io/badge/Portfolio-1E1B3A?style=flat&logo=vercel&logoColor=00FFFF)](https://zachcortez3dportfolio.vercel.app/)
 
 ### 🤖 **AI Mock Interviews** – AI-Powered Interview Practice Platform  
 🛠 *Tech Stack:* Next.js, TypeScript, OpenAI, TailwindCSS, ShadCN  
