@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.ibb.co/mytnRrt/header.gif">
+</div>
+
 ---
 
 # 🚀 Zachary Cortez
