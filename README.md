@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="25" /> **Full-Stack Web Developer**  
 📍 Charlotte, NC  
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" /> Zach.Cortez@icloud.com | 📞 (425) 435-1912  
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="50" /> Zach.Cortez@icloud.com | 📞 (425) 435-1912  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/ZachCortez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/zach-cortez/)[![Portfolio](https://img.shields.io/badge/Portfolio-1E1B3A?style=flat&logo=vercel&logoColor=00FFFF)](https://zachcortez3dportfolio.vercel.app/)
 
 ---
