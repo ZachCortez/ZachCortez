@@ -13,7 +13,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="50" /> **Profile**  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> **Profile**  
 💡 Self-taught **Full-Stack Web Developer** with a strong foundation in **Python, MERN stack, and C#**. Passionate about building **scalable web applications** and **continuously learning new technologies**. Skilled in both **front-end and back-end development**, creating efficient, user-friendly applications.
 
 ---
