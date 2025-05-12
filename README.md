@@ -6,14 +6,14 @@
 
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp; Zachary Cortez
 
-🎯 **Full-Stack Web Developer**  
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="120" /> **Full-Stack Web Developer**  
 📍 Charlotte, NC  
 📧 Zach.Cortez@icloud.com | 📞 (425) 435-1912  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/ZachCortez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/zach-cortez/)[![Portfolio](https://img.shields.io/badge/Portfolio-1E1B3A?style=flat&logo=vercel&logoColor=00FFFF)](https://zachcortez3dportfolio.vercel.app/)
 
 ---
 
-## 🎯 **Profile**  
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="120" /> **Profile**  
 💡 Self-taught **Full-Stack Web Developer** with a strong foundation in **Python, MERN stack, and C#**. Passionate about building **scalable web applications** and **continuously learning new technologies**. Skilled in both **front-end and back-end development**, creating efficient, user-friendly applications.
 
 ---
@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 **Projects**
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp;🚀 **Projects**
 
 ### ✈️ **Travel Agency Website** – Responsive Travel Booking Website  
 🛠 *Tech Stack:* React.js, TailwindCSS, Framer Motion  
