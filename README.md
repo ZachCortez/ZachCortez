@@ -7,14 +7,14 @@
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp; Zachary Cortez
 
 <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="25" /> **Full-Stack Web Developer**  
-📍 Charlotte, NC  
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="25" /> Zach.Cortez@icloud.com | 📞 (425) 435-1912  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="25" height="25" /> Charlotte, NC  
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="25" /> Zach.Cortez@icloud.com | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> (425) 435-1912  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/ZachCortez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/zach-cortez/)[![Portfolio](https://img.shields.io/badge/Portfolio-1E1B3A?style=flat&logo=vercel&logoColor=00FFFF)](https://zachcortez3dportfolio.vercel.app/)
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="50" height="50" /> **Profile**  
-💡 Self-taught **Full-Stack Web Developer** with a strong foundation in **Python, MERN stack, and C#**. Passionate about building **scalable web applications** and **continuously learning new technologies**. Skilled in both **front-end and back-end development**, creating efficient, user-friendly applications.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> Self-taught **Full-Stack Web Developer** with a strong foundation in **Python, MERN stack, and C#**. Passionate about building **scalable web applications** and **continuously learning new technologies**. Skilled in both **front-end and back-end development**, creating efficient, user-friendly applications.
 
 ---
 
@@ -29,108 +29,108 @@
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="60">&nbsp; **Projects**
 
-### ✈️ **Travel Agency Website** – Responsive Travel Booking Website  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" alt="Airplane" width="25" height="25" /> **Travel Agency Website** – Responsive Travel Booking Website  
 🛠 *Tech Stack:* React.js, TailwindCSS, Framer Motion  
-✅ Developed a **responsive travel agency website** for browsing and booking vacations.  
-✅ Focused on **modern design, animations, and user-centric interface** to improve experience.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Developed a **responsive travel agency website** for browsing and booking vacations.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Focused on **modern design, animations, and user-centric interface** to improve experience.  
 🔗 [**GitHub Repository**](https://github.com/ZachCortez/travel-agency)
 
-### 🌐 **3D Portfolio** – Interactive Developer Portfolio with 3D Effects  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> **3D Portfolio** – Interactive Developer Portfolio with 3D Effects  
 🛠 *Tech Stack:* Three.js, React.js, TailwindCSS, Vite  
-✅ Built a **personal portfolio site** featuring a 3D interactive experience to showcase skills and projects.  
-✅ Used **Three.js and GSAP** for 3D rendering, smooth animations, and responsive design.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Built a **personal portfolio site** featuring a 3D interactive experience to showcase skills and projects.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Used **Three.js and GSAP** for 3D rendering, smooth animations, and responsive design.  
 🔗 [**GitHub Repository**](https://github.com/ZachCortez/3D_Portfolio)[![Portfolio](https://img.shields.io/badge/Portfolio-1E1B3A?style=flat&logo=vercel&logoColor=00FFFF)](https://zachcortez3dportfolio.vercel.app/)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> **AI Mock Interviews** – AI-Powered Interview Practice Platform  
 🛠 *Tech Stack:* Next.js, TypeScript, OpenAI, TailwindCSS, ShadCN  
-✅ Built an **AI-powered platform** allowing users to practice mock interviews across various industries and roles.  
-✅ Integrated **dynamic interview question generation** using OpenAI APIs and built a sleek, intuitive UI.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Built an **AI-powered platform** allowing users to practice mock interviews across various industries and roles.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Integrated **dynamic interview question generation** using OpenAI APIs and built a sleek, intuitive UI.  
 🔗 [**GitHub Repository**](https://github.com/ZachCortez/ai_mock_interviews)
 
-### 🎬 **Mobile Movie App** – Cross-Platform Movie Discovery Application  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper Board" width="25" height="25" /> **Mobile Movie App** – Cross-Platform Movie Discovery Application  
 🛠 *Tech Stack:* React Native, TMDb API, TailwindCSS  
-✅ Built a **mobile app** allowing users to search, discover, and save favorite movies.  
-✅ Implemented **dynamic movie search and filtering** with data from TMDb API.  
-✅ Designed an intuitive and responsive UI to ensure a seamless user experience on both Android and iOS devices.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Built a **mobile app** allowing users to search, discover, and save favorite movies.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Implemented **dynamic movie search and filtering** with data from TMDb API.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Designed an intuitive and responsive UI to ensure a seamless user experience on both Android and iOS devices.  
 🔗 [**GitHub Repository**](https://github.com/ZachCortez/mobile_movie_app)
 
-### 🧩 **Xora** – Modern UI/UX SaaS Website  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" alt="Puzzle Piece" width="25" height="25" /> **Xora** – Modern UI/UX SaaS Website  
 🛠 *Tech Stack:* React.js, TailwindCSS  
-✅ Created a **sleek SaaS website** emphasizing modern UI/UX principles.  
-✅ Implemented **seamless animations** and a responsive design to ensure accessibility across devices.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Created a **sleek SaaS website** emphasizing modern UI/UX principles.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Implemented **seamless animations** and a responsive design to ensure accessibility across devices.  
 🔗 [**GitHub Repository**](https://github.com/ZachCortez/Xora)
 
 ### 🎙 **Podcastr** – AI-Powered Podcast Platform  
 🛠 *Tech Stack:* Next.js, OpenAI, TypeScript, TailwindCSS  
-✅ Developed an **AI-driven podcast creation platform** with text-to-audio conversion.  
-✅ Implemented authentication and a seamless user experience with Clerk.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Developed an **AI-driven podcast creation platform** with text-to-audio conversion.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Implemented authentication and a seamless user experience with Clerk.  
 🔗 [**GitHub Repository**](https://github.com/ZachCortez/Podcastr)
 
-### 🏥 **CarePulse** – Healthcare Patient Management System  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hospital.png" alt="Hospital" width="25" height="25" /> **CarePulse** – Healthcare Patient Management System  
 🛠 *Tech Stack:* Next.js, Appwrite, Twilio, TypeScript  
-✅ Built a **healthcare system** allowing patients to register, book, and manage appointments.  
-✅ Integrated **SMS notifications** using Twilio for appointment reminders.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Built a **healthcare system** allowing patients to register, book, and manage appointments.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Integrated **SMS notifications** using Twilio for appointment reminders.  
 🔗 [**GitHub Repository**](https://github.com/ZachCortez/CarePulse)
 
-### 🚕 **Uber Clone** – Ride-Sharing Mobile App  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Oncoming%20Taxi.png" alt="Oncoming Taxi" width="25" height="25" /> **Uber Clone** – Ride-Sharing Mobile App  
 🛠 *Tech Stack:* React Native, Google Maps API, Stripe, TailwindCSS  
-✅ Developed a **full-stack mobile app** with ride-hailing features.  
-✅ Implemented **real-time geolocation** and **secure payment processing**.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Developed a **full-stack mobile app** with ride-hailing features.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Implemented **real-time geolocation** and **secure payment processing**.  
 🔗 [**GitHub Repository**](https://github.com/ZachCortez/uber-clone)
 
-### 🏦 **Horizon Bank** – Online Banking System  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="25" height="25" /> **Horizon Bank** – Online Banking System  
 🛠 *Tech Stack:* Next.js, TypeScript, TailwindCSS, MongoDB  
-✅ Developed a **secure online banking platform** allowing users to manage accounts, transfer funds, and track transactions.  
-✅ Implemented **authentication, account security, and real-time transaction updates**.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Developed a **secure online banking platform** allowing users to manage accounts, transfer funds, and track transactions.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Implemented **authentication, account security, and real-time transaction updates**.  
 🔗 [**GitHub Repository**](https://github.com/ZachCortez/sb_banking)
 
 ### 💡 **Brainwave** – Modern UI/UX Website  
 🛠 *Tech Stack:* React.js, TailwindCSS  
-✅ Designed a **visually appealing UI/UX website** that showcases modern design principles.  
-✅ Focused on **fluid animations and responsive layouts** for an optimal user experience.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Designed a **visually appealing UI/UX website** that showcases modern design principles.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Focused on **fluid animations and responsive layouts** for an optimal user experience.  
 🔗 [**GitHub Repository**](https://github.com/ZachCortez/Brainwave)
 
 ### 📱 **iPhone 15 Pro Clone** – Apple Website Replica  
 🛠 *Tech Stack:* Three.js, GSAP, React.js, Vite, TailwindCSS  
-✅ Created a **high-fidelity clone** of Apple's iPhone 15 Pro page with **3D animations**.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Created a **high-fidelity clone** of Apple's iPhone 15 Pro page with **3D animations**.  
 🔗 [**GitHub Repository**](https://github.com/ZachCortez/apple_website)
 
 ---
 
-## 💼 **Experience**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> **Experience**
 ### 🏡 **Real Estate Assistant / Operations Manager**  
-📍 *Selling Eastside RE LLC | Jan 2024 - Apr 2024*  
-✅ Spearheaded **daily operations, scheduling, and customer service** initiatives.  
-✅ Managed website updates and implemented **AI platforms for outreach**.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="25" height="25" /> *Selling Eastside RE LLC | Jan 2024 - Apr 2024*  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Spearheaded **daily operations, scheduling, and customer service** initiatives.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Managed website updates and implemented **AI platforms for outreach**.  
 
-### 📸 **Automotive Photographer**  
-📍 *Xcite Automotive | Feb 2021 - Jan 2024*  
-✅ Captured **high-quality automotive images** for marketing and dealership use.  
-✅ Edited and enhanced images using **Adobe Photoshop and Lightroom**.  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="25" height="25" /> **Automotive Photographer**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="25" height="25" /> *Xcite Automotive | Feb 2021 - Jan 2024*  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Captured **high-quality automotive images** for marketing and dealership use.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Edited and enhanced images using **Adobe Photoshop and Lightroom**.  
 
-### 👨‍💻 **Developer in Training**  
-📍 *Coding Dojo | Sep 2020 - Jan 2021*  
-✅ Completed an intensive **full-stack development program** focusing on **Python, MERN, and C#**.  
-✅ Developed **RESTful APIs** and built **interactive front-end applications**.  
-
----
-
-## 🎓 **Education**  
-📌 **Full-Stack Web Development** – *Coding Dojo, Bellevue, WA* (2020-2021)  
-📌 **Toyota T-TEN Program (Automotive Technology)** – *Forsyth Tech, Winston-Salem, NC* (2013-2014)  
-📌 **R B Glenn High School** – *Kernersville, NC* (2004-2008)  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> **Developer in Training**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="25" height="25" /> *Coding Dojo | Sep 2020 - Jan 2021*  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Completed an intensive **full-stack development program** focusing on **Python, MERN, and C#**.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Developed **RESTful APIs** and built **interactive front-end applications**.  
 
 ---
 
-## 🏆 **Certifications**  
-✅ **Full-Stack Web Development Certificate** – *Coding Dojo (2021)*  
-✅ **Fleet Management & Automotive Photography** – Extensive experience in managing vehicle logistics and digital media production.  
-✅ **Customer Service & Operations** – Background in real estate, retail, and automotive industries with a focus on optimizing workflows.  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="25" height="25" /> **Education**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> **Full-Stack Web Development** – *Coding Dojo, Bellevue, WA* (2020-2021)  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> **Toyota T-TEN Program (Automotive Technology)** – *Forsyth Tech, Winston-Salem, NC* (2013-2014)  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> **R B Glenn High School** – *Kernersville, NC* (2004-2008)  
 
 ---
 
-## 📬 **Contact**  
-📧 Zach.Cortez@icloud.com | 📞 (425) 435-1912  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> **Certifications**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> **Full-Stack Web Development Certificate** – *Coding Dojo (2021)*  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> **Fleet Management & Automotive Photography** – Extensive experience in managing vehicle logistics and digital media production.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> **Customer Service & Operations** – Background in real estate, retail, and automotive industries with a focus on optimizing workflows.  
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="25" height="25" /> **Contact**  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Zach.Cortez@icloud.com | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> (425) 435-1912  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/ZachCortez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/zach-cortez/)
 
 ---
