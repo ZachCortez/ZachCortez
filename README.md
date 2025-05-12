@@ -41,7 +41,7 @@
 ✅ Used **Three.js and GSAP** for 3D rendering, smooth animations, and responsive design.  
 🔗 [**GitHub Repository**](https://github.com/ZachCortez/3D_Portfolio)[![Portfolio](https://img.shields.io/badge/Portfolio-1E1B3A?style=flat&logo=vercel&logoColor=00FFFF)](https://zachcortez3dportfolio.vercel.app/)
 
-### 🤖 **AI Mock Interviews** – AI-Powered Interview Practice Platform  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> **AI Mock Interviews** – AI-Powered Interview Practice Platform  
 🛠 *Tech Stack:* Next.js, TypeScript, OpenAI, TailwindCSS, ShadCN  
 ✅ Built an **AI-powered platform** allowing users to practice mock interviews across various industries and roles.  
 ✅ Integrated **dynamic interview question generation** using OpenAI APIs and built a sleek, intuitive UI.  
