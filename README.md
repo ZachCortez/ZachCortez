@@ -29,7 +29,7 @@
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="60">&nbsp; **Projects**
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> **Converso** – AI-Powered LMS SaaS Platform with Voice Tutors  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Studio%20Microphone.png" alt="Studio Microphone" width="25" height="25" /> **Converso** – AI-Powered LMS SaaS Platform with Voice Tutors  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> *Tech Stack:* Next.js, TypeScript, Tailwind CSS, Supabase, Clerk, Stripe, Sentry, shadcn/ui, Vapi  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Built a **scalable SaaS learning platform** featuring AI-powered **voice tutors**, and real-time interactions.  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Integrated **authentication, subscription tiers, and secure user management** with Clerk and Stripe.  
