@@ -29,6 +29,13 @@
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="60">&nbsp; **Projects**
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> **GTA VI Landing Page** – Cinematic Fan-Made Landing Experience  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> *Tech Stack:* React.js, Tailwind CSS, GSAP, React Router  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Crafted a **visually dynamic and immersive fan-made landing page** inspired by the Grand Theft Auto VI trailer.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Integrated **scroll-triggered transitions and layered motion effects** using **GSAP** for cinematic impact.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Showcases **custom video overlays, animated cityscape, and neon-styled visuals** for a Rockstar-inspired feel.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> [**GitHub Repository**](https://github.com/ZachCortez/gta_vi_landing)
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Cocktail%20Glass.png" alt="Cocktail Glass" width="25" height="25" /> **Velvet Pour** – Modern Bar-Style Menu Template for Food Trucks & Vendors  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> *Tech Stack:* React.js, Tailwind CSS, GSAP, React Router  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" /> Created a **stylish and customizable digital menu** template designed for **bars, food trucks, and local vendors**.  
